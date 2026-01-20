@@ -6,6 +6,8 @@
 ![Jupyter](https://img.shields.io/badge/Made%20with-Google%20Colab-orange?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jao-xsm/Automatos-Celulares-Incendio/blob/main/Trabalho_Autômatos.ipynb)
+
 ## 📸 Demonstração
 
 <div align="center">
@@ -35,10 +37,10 @@ A simulação utiliza uma matriz de estados (grid) onde cada célula representa 
 
 Este projeto foi otimizado para rodar diretamente na nuvem via **Google Colab**, sem necessidade de instalar nada no seu computador.
 
-1.  Acesse o arquivo `Trabalho_Autômatos.ipynb` clicando nele na lista de arquivos acima.
-2.  Procure pelo botão **"Open in Colab"** no topo do arquivo (ou substitua `github.com` por `githubusercontent.com` na URL e use o [visualizador do Colab](https://colab.research.google.com)).
-3.  Com o notebook aberto, vá no menu superior em **Ambiente de Execução (Runtime)** > **Executar tudo (Run all)**.
-4.  Role a página para baixo para ver os gráficos e animações sendo gerados em tempo real.
+1.  **Clique no botão abaixo** para abrir o notebook diretamente no Google Colab:
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jao-xsm/Automatos-Celulares-Incendio/blob/main/Trabalho_Autômatos.ipynb)
+2.  Com o notebook aberto, vá no menu superior em **Ambiente de Execução (Runtime)** > **Executar tudo (Run all)**.
+3.  Role a página para baixo para ver os gráficos e animações sendo gerados em tempo real.
 
 ## 👨‍💻 Autor
 
