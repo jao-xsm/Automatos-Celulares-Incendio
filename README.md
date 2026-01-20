@@ -11,7 +11,7 @@
 ## 📸 Demonstração
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Insira+Print+da+Simulacao+Aqui" alt="Preview da Simulação" width="600">
+  <img src="automatos.gif" alt="Preview da Simulação" width="600">
 </div>
 
 ## 💻 Sobre o Projeto
